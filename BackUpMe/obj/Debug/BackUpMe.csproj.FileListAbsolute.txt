@@ -1,0 +1,10 @@
+c:\users\harutzuki\documents\visual studio 2015\Projects\BackUpMe\BackUpMe\bin\Debug\BackUpMe.exe
+c:\users\harutzuki\documents\visual studio 2015\Projects\BackUpMe\BackUpMe\bin\Debug\BackUpMe.pdb
+c:\users\harutzuki\documents\visual studio 2015\Projects\BackUpMe\BackUpMe\obj\Debug\BackUpMe.csprojResolveAssemblyReference.cache
+c:\users\harutzuki\documents\visual studio 2015\Projects\BackUpMe\BackUpMe\obj\Debug\BackUpMe.Properties.Resources.resources
+c:\users\harutzuki\documents\visual studio 2015\Projects\BackUpMe\BackUpMe\obj\Debug\BackUpMe.csproj.GenerateResource.Cache
+c:\users\harutzuki\documents\visual studio 2015\Projects\BackUpMe\BackUpMe\obj\Debug\BackUpMe.exe
+c:\users\harutzuki\documents\visual studio 2015\Projects\BackUpMe\BackUpMe\obj\Debug\BackUpMe.pdb
+c:\users\harutzuki\documents\visual studio 2015\Projects\BackUpMe\BackUpMe\bin\Debug\BackUpMe.exe.config
+C:\Users\HaruTzuki\documents\visual studio 2015\Projects\BackUpMe\BackUpMe\obj\Debug\BackUpMe.Progress.resources
+C:\Users\HaruTzuki\documents\visual studio 2015\Projects\BackUpMe\BackUpMe\obj\Debug\BackUpMe.frmMain.resources
