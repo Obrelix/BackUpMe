@@ -8,3 +8,6 @@ c:\users\harutzuki\documents\visual studio 2015\Projects\BackUpMe\BackUpMe\obj\D
 c:\users\harutzuki\documents\visual studio 2015\Projects\BackUpMe\BackUpMe\bin\Debug\BackUpMe.exe.config
 C:\Users\HaruTzuki\documents\visual studio 2015\Projects\BackUpMe\BackUpMe\obj\Debug\BackUpMe.Progress.resources
 C:\Users\HaruTzuki\documents\visual studio 2015\Projects\BackUpMe\BackUpMe\obj\Debug\BackUpMe.frmMain.resources
+C:\Users\HaruTzuki\Source\Repos\New folder\BackUpMe\BackUpMe\bin\Debug\BackUpMe.exe.config
+C:\Users\HaruTzuki\Source\Repos\New folder\BackUpMe\BackUpMe\obj\Debug\BackUpMe.exe
+C:\Users\HaruTzuki\Source\Repos\New folder\BackUpMe\BackUpMe\obj\Debug\BackUpMe.pdb

@@ -24,8 +24,8 @@ namespace BackUpMe
         int count;
         string newDest;
         int countCopied; //This is the interger number that on update show us how much files copied.
-        int b; //New Var
-        Thread th; //New Thread
+        int b;
+        Thread th; 
         ArrayList folderName;
         
 
