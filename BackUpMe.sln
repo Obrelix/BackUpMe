@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackUpMe", "BackUpMe\BackUpMe.csproj", "{1BE3D8CA-4DCD-4C17-B640-AFD6AB69CF84}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackUpManager", "BackUpManager\BackUpManager\BackUpManager.csproj", "{6BAA513B-9644-4E00-B87B-7BDC07AAC7B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1BE3D8CA-4DCD-4C17-B640-AFD6AB69CF84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BE3D8CA-4DCD-4C17-B640-AFD6AB69CF84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BE3D8CA-4DCD-4C17-B640-AFD6AB69CF84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BAA513B-9644-4E00-B87B-7BDC07AAC7B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BAA513B-9644-4E00-B87B-7BDC07AAC7B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BAA513B-9644-4E00-B87B-7BDC07AAC7B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BAA513B-9644-4E00-B87B-7BDC07AAC7B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
