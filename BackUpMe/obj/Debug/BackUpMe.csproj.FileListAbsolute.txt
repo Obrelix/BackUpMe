@@ -11,3 +11,6 @@ C:\Users\HaruTzuki\documents\visual studio 2015\Projects\BackUpMe\BackUpMe\obj\D
 C:\Users\HaruTzuki\Source\Repos\New folder\BackUpMe\BackUpMe\bin\Debug\BackUpMe.exe.config
 C:\Users\HaruTzuki\Source\Repos\New folder\BackUpMe\BackUpMe\obj\Debug\BackUpMe.exe
 C:\Users\HaruTzuki\Source\Repos\New folder\BackUpMe\BackUpMe\obj\Debug\BackUpMe.pdb
+C:\Users\Obrelix\Source\Repos\BackUpMe\BackUpMe\bin\Debug\BackUpMe.exe.config
+C:\Users\Obrelix\Source\Repos\BackUpMe\BackUpMe\obj\Debug\BackUpMe.exe
+C:\Users\Obrelix\Source\Repos\BackUpMe\BackUpMe\obj\Debug\BackUpMe.pdb
