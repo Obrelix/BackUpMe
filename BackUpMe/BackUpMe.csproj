@@ -72,11 +72,11 @@
     <Compile Include="Forms\frmHistory.Designer.cs">
       <DependentUpon>frmHistory.cs</DependentUpon>
     </Compile>
-    <Compile Include="Forms\Main.cs">
+    <Compile Include="Forms\frmBackUpTimer.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Forms\Main.Designer.cs">
-      <DependentUpon>Main.cs</DependentUpon>
+    <Compile Include="Forms\frmBackUpTimer.Designer.cs">
+      <DependentUpon>frmBackUpTimer.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Forms\frmProgress.cs">
@@ -93,8 +93,8 @@
     <EmbeddedResource Include="Forms\frmHistory.resx">
       <DependentUpon>frmHistory.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Forms\Main.resx">
-      <DependentUpon>Main.cs</DependentUpon>
+    <EmbeddedResource Include="Forms\frmBackUpTimer.resx">
+      <DependentUpon>frmBackUpTimer.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\frmProgress.resx">
       <DependentUpon>frmProgress.cs</DependentUpon>
