@@ -1,6 +1,6 @@
 ﻿namespace BackUpMe
 {
-    partial class frmMain
+    partial class frmBackUpPersonalFiles
     {
         /// <summary>
         /// Required designer variable.

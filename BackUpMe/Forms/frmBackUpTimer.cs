@@ -13,7 +13,7 @@ using Microsoft.Win32;
 
 namespace BackUpMe
 {
-    public partial class Main : Form
+    public partial class frmBackUpTimer : Form
     {
         RegistryKey rkApp = Registry.CurrentUser.OpenSubKey("SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run", true);
 
@@ -99,7 +99,7 @@ namespace BackUpMe
 
        
 
-        public Main()
+        public frmBackUpTimer()
         {
             InitializeComponent();
 

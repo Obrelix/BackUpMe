@@ -12,7 +12,7 @@ using System.Windows.Forms;
 
 namespace BackUpMe
 {
-    public partial class frmMain : Form
+    public partial class frmBackUpPersonalFiles : Form
     {
         
         string myPic, myVid, myMus, myDoc, myDL, myDesk;
@@ -30,7 +30,7 @@ namespace BackUpMe
         
 
 
-        public frmMain()
+        public frmBackUpPersonalFiles()
         {
             InitializeComponent();
             Name = "BackUpMe";

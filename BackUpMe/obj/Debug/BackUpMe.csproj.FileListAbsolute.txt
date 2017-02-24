@@ -20,8 +20,9 @@ C:\Users\Obrelix\Source\Repos\BackUpMe\BackUpMe\obj\Debug\BackUpMe.frmHistory.re
 C:\Users\Obrelix\Source\Repos\BackUpMe\BackUpMe\obj\Debug\BackUpMe.Progress.resources
 C:\Users\Obrelix\Source\Repos\BackUpMe\BackUpMe\obj\Debug\BackUpMe.Properties.Resources.resources
 C:\Users\Obrelix\Source\Repos\BackUpMe\BackUpMe\obj\Debug\BackUpMe.csproj.GenerateResource.Cache
-C:\Users\Obrelix\Source\Repos\BackUpMe\BackUpMe\obj\Debug\BackUpMe.Main.resources
 C:\Users\Obrelix\Source\Repos\BackUpMe\BackUpMe\bin\Debug\BackUpMe.exe
 C:\Users\Obrelix\Source\Repos\BackUpMe\BackUpMe\bin\Debug\BackUpMe.pdb
 C:\Users\Obrelix\Source\Repos\BackUpMe\BackUpMe\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Obrelix\Source\Repos\BackUpMe\BackUpMe\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Obrelix\Source\Repos\BackUpMe\BackUpMe\obj\Debug\BackUpMe.frmBackUpPersonalFiles.resources
+C:\Users\Obrelix\Source\Repos\BackUpMe\BackUpMe\obj\Debug\BackUpMe.frmBackUpTimer.resources
