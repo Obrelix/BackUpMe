@@ -14,3 +14,14 @@ C:\Users\HaruTzuki\Source\Repos\New folder\BackUpMe\BackUpMe\obj\Debug\BackUpMe.
 C:\Users\Obrelix\Source\Repos\BackUpMe\BackUpMe\bin\Debug\BackUpMe.exe.config
 C:\Users\Obrelix\Source\Repos\BackUpMe\BackUpMe\obj\Debug\BackUpMe.exe
 C:\Users\Obrelix\Source\Repos\BackUpMe\BackUpMe\obj\Debug\BackUpMe.pdb
+C:\Users\Obrelix\Source\Repos\BackUpMe\BackUpMe\obj\Debug\BackUpMe.csprojResolveAssemblyReference.cache
+C:\Users\Obrelix\Source\Repos\BackUpMe\BackUpMe\obj\Debug\BackUpMe.frmMain.resources
+C:\Users\Obrelix\Source\Repos\BackUpMe\BackUpMe\obj\Debug\BackUpMe.frmHistory.resources
+C:\Users\Obrelix\Source\Repos\BackUpMe\BackUpMe\obj\Debug\BackUpMe.Progress.resources
+C:\Users\Obrelix\Source\Repos\BackUpMe\BackUpMe\obj\Debug\BackUpMe.Properties.Resources.resources
+C:\Users\Obrelix\Source\Repos\BackUpMe\BackUpMe\obj\Debug\BackUpMe.csproj.GenerateResource.Cache
+C:\Users\Obrelix\Source\Repos\BackUpMe\BackUpMe\obj\Debug\BackUpMe.Main.resources
+C:\Users\Obrelix\Source\Repos\BackUpMe\BackUpMe\bin\Debug\BackUpMe.exe
+C:\Users\Obrelix\Source\Repos\BackUpMe\BackUpMe\bin\Debug\BackUpMe.pdb
+C:\Users\Obrelix\Source\Repos\BackUpMe\BackUpMe\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Obrelix\Source\Repos\BackUpMe\BackUpMe\bin\Debug\Newtonsoft.Json.xml
