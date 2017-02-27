@@ -26,3 +26,4 @@ C:\Users\Obrelix\Source\Repos\BackUpMe\BackUpMe\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Obrelix\Source\Repos\BackUpMe\BackUpMe\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Obrelix\Source\Repos\BackUpMe\BackUpMe\obj\Debug\BackUpMe.frmBackUpPersonalFiles.resources
 C:\Users\Obrelix\Source\Repos\BackUpMe\BackUpMe\obj\Debug\BackUpMe.frmBackUpTimer.resources
+C:\Users\Obrelix\Source\Repos\BackUpMe\BackUpMe\obj\Debug\BackUpMe.frmAbout.resources

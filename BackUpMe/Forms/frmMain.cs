@@ -585,6 +585,7 @@ namespace BackUpMe
         {
             tmrFilesCheck.Start();
 
+            dtgrdvDisplay.AllowUserToAddRows = false;
 
 
             notifyIcon_Main.Visible = true;
@@ -592,22 +593,10 @@ namespace BackUpMe
             this.BackColor = Color.MediumTurquoise;
             pnlControls.BackColor = Color.CadetBlue;
             dtgrdvDisplay.BackgroundColor = Color.CadetBlue;
-            Directory.CreateDirectory(savePath);
-            if (File.Exists(saveFile))
-            {
-                LoadBackup();
-                gridRefresh();
-            }
-            else
-            {
-                using (System.IO.FileStream fs = System.IO.File.Create(saveFile))
-                {
-                    for (byte i = 0; i < 100; i++)
-                    {
-                        fs.WriteByte(i);
-                    }
-                }
-            }
+            
+            LoadBackup();
+            
+            
         }
 
         private void enableBackups()
@@ -630,9 +619,26 @@ namespace BackUpMe
 
             try
             {
-                backUpList.Clear();
-                backUpList = JsonConvert.DeserializeObject<List<BackUp>>(System.IO.File.ReadAllText(saveFile));
-                enableBackups();
+                if (File.Exists(saveFile))
+                {
+                   
+                    backUpList.Clear();
+                    backUpList = JsonConvert.DeserializeObject<List<BackUp>>(System.IO.File.ReadAllText(saveFile));
+                    enableBackups();
+                    gridRefresh();
+                }
+                else
+                {
+                    Directory.CreateDirectory(savePath);
+                    using (System.IO.FileStream fs = System.IO.File.Create(saveFile))
+                    {
+                        for (byte i = 0; i < 100; i++)
+                        {
+                            fs.WriteByte(i);
+                        }
+                    }
+                }
+                
 
             }
             catch (Exception ex)

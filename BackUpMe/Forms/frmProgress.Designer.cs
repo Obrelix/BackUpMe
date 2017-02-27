@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Progress));
             this.prbFiles = new System.Windows.Forms.ProgressBar();
             this.label1 = new System.Windows.Forms.Label();
             this.tmr = new System.Windows.Forms.Timer(this.components);
@@ -63,6 +64,7 @@
             this.ClientSize = new System.Drawing.Size(511, 129);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.prbFiles);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Progress";
             this.Text = "Progress";
             this.ResumeLayout(false);

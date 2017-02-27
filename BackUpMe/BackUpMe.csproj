@@ -93,6 +93,9 @@
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Classes\KnowFolders.cs" />
+    <EmbeddedResource Include="Forms\frmAbout.resx">
+      <DependentUpon>frmAbout.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\frmBackUpPersonalFiles.resx">
       <DependentUpon>frmBackUpPersonalFiles.cs</DependentUpon>
     </EmbeddedResource>
